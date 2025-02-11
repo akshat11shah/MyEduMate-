@@ -1,16 +1,18 @@
-# charusat
+# EduTrack 🎓
 
-A new Flutter project.
+**EduTrack** is a **Flutter-based student portal application** that allows students to access their academic information seamlessly.
 
-## Getting Started
+## ✨ Features
+- 🔐 **Student Login** – Secure authentication for personalized access.
+- 📄 **View Student Information** – Displays student details and profile.
+- 📑 **Marksheet Access** – Check semester-wise marks and grades.
+- 📊 **Attendance Tracking** – Stay updated on attendance records.
+- 💰 **Fees Status** – Monitor pending and paid fees.
 
-This project is a starting point for a Flutter application.
+## 🛠 Technologies Used
+- **Flutter (Dart)** – Cross-platform app development.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/EduTrack.git
